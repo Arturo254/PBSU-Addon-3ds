@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 id = "pbsu_addon_3ds"
 name = "PBSU 3D Studio (.3ds)"
-version = "1.0.0"
+version = "1.0.1"
 tagline = "Import/export 3DS scenes, objects, cameras, lights & anims"
 maintainer = "Arturo Cervantes Galindo"
 type = "add-on"
